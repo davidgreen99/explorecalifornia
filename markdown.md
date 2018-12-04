@@ -15,6 +15,10 @@ The following special characters are handy:
 
 ```
 
+## New section added in branch Tom
+
+Double click on HelloWorld, and bring up our window that shows our uncommitted changes. Notice that our changes are unstaged, and so we're going to look at them. Program.cs has changed, here are the three lines that have been removed, and the two lines that have been added. And of course Runner.cs will be all added. We're going to click here to take all of our unstaged files and stage them. And now that they're staged, or in the index, we can commit them.
+
 Renders to:
 
 —  M-dash (separates, parenthetical )
